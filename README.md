@@ -27,7 +27,7 @@ The proposed AI solution can support utility organizations by providing
 automated visual monitoring of field activities and identifying potential
 safety violations.
 
-### Potential Applications
+### Potential Applications and Future Developments
 
 - 🦺 PPE compliance detection
 - ⚡ Electrical hazard detection
