@@ -14,11 +14,9 @@ safety compliance and potential safety violations in electricity utility
 operations.
 
 The model can analyze images and video footage from field operations and
-detect objects and conditions related to electrical safety, PPE compliance,
-working at heights, restricted areas, tools and equipment, and other
-operational safety requirements.
+detect objects and conditions related to PPE compliance while working on the field.
 
-## ⚡ Relevance to Electricity Utilities
+## ⚡ Project Objective in Electricity Utilities
 
 Electricity distribution and transmission operations involve high-risk
 activities where strict adherence to safety protocols is critical.
